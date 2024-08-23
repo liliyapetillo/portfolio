@@ -12,11 +12,13 @@ As a proven leader, I bring strong communication, time management, and delegatio
 * Skilled in interviewing, onboarding, mentoring and leading a team
 * Experience with automation testing for web applications using Selenium WebDriver and TestProject, as well as for iOS native applications using the XCUITest framework.
 * Working knowledge of API testing skills using Postman and Charles
-* Basic programming skills: HTML/CSS, SQL, Java, Swift, Python, 
-
+* Basic programming skills: HTML/CSS, SQL, Java, Swift, Python
 
 ## Projects and where to find them:
 Feel free to explore my projects, and don’t hesitate to reach out if you’d like to discuss how we can collaborate to make your next software release a success!
+
+### SQL practice:
+* Can be found [here](https://github.com/liliyavovk-17/sql-practice)
 ### Automation tests in Java with Selenium framework:
 * [Automation tests for online shop](https://github.com/liliyavovk-17/seleniumJava)
 
