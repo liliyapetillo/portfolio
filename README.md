@@ -20,7 +20,7 @@ Feel free to explore my projects, and don’t hesitate to reach out if you’d l
 ### SQL practice:
 * Can be found [here](https://github.com/liliyavovk-17/sql-practice)
   
-### API Testing
+### API Testing:
 * [API tests for *Trello* and *GroceryStore*](https://github.com/liliyavovk-17/api-testing)
   
 ### Automation tests in Java with Selenium framework:
