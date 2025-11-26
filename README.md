@@ -1,6 +1,6 @@
 # Liliya Petillo
 ## Summary
-Hello and welcome! I’m Liliya, a self-motivated and dynamic Senior Quality Assurance Engineer with a passion for e-commerce applications and extensive knowledge of software testing types and quality assurance methodologies. With over 7 years of experience, I’ve honed my skills in ensuring that software products meet the highest standards of quality.
+Hello and welcome! I’m Liliya, a self-motivated and dynamic Quality Assurance Team Lead with a passion for e-commerce applications and extensive knowledge of software testing types and quality assurance methodologies. With over 7 years of experience, I’ve honed my skills in ensuring that software products meet the highest standards of quality.
 
 I’m detail-oriented and thrive in managing multiple projects simultaneously while collaborating effectively with cross-functional teams in an Agile environment. My journey in QA has been marked by a commitment to excellence, a love for problem-solving, and a strong belief in the power of teamwork.
 
