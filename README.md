@@ -1,4 +1,4 @@
-# Liliya Vovk
+# Liliya Petillo
 ## Summary
 Hello and welcome! I’m Liliya, a self-motivated and dynamic Senior Quality Assurance Engineer with a passion for e-commerce applications and extensive knowledge of software testing types and quality assurance methodologies. With over 7 years of experience, I’ve honed my skills in ensuring that software products meet the highest standards of quality.
 
