@@ -7,12 +7,17 @@ I’m detail-oriented and thrive in managing multiple projects simultaneously wh
 As a proven leader, I bring strong communication, time management, and delegation skills to every project I undertake. In this portfolio, you’ll find a curated selection of my work that highlights my expertise in test automation, manual testing, performance testing, and more.
 
 ## Skills
-Testing Expertise: Manual testing (Functional, E2E, Regression, Integration, Accessibility, Usability, Exploratory), Web/iOS/Android, API testing, cross-browser testing
-Quality Strategy: Test planning, test strategy, acceptance criteria definition, risk analysis, requirement validation, shift-left practices,  quality metrics/KPIs, release readiness assessment
-Leadership & Collaboration: Team management, mentoring, onboarding, cross-functional communication, stakeholder management, workflow optimization, defect management, root cause analysis, bug-reporting process improvements
-Documentation & Tools: Test plans, test cases, bug reporting, regression suites, test documentation,  knowledge base documentation; Jira, TestRail, Zephyr
-Automation & Technical Skills: Planning and prioritizing automation for key flows, automation framework maintenance/enhancements; Selenium WebDriver, XCUITest, TestProject, Cypress.io, TestNG, Allure Report; Git version control, CI/CD pipelines: Jenkins, CircleCI; Postman, Charles
-Basic programming skills: HTML/CSS, SQL, Swift, Python, Java, Javascript; Working knowledge of API testing skills using Postman and Charles
+**Testing Expertise**: Manual testing (Functional, E2E, Regression, Integration, Accessibility, Usability, Exploratory), Web/iOS/Android, API testing, cross-browser testing
+
+**Quality Strategy**: Test planning, test strategy, acceptance criteria definition, risk analysis, requirement validation, shift-left practices,  quality metrics/KPIs, release readiness assessment
+
+**Leadership & Collaboration**: Team management, mentoring, onboarding, cross-functional communication, stakeholder management, workflow optimization, defect management, root cause analysis, bug-reporting process improvements
+
+**Documentation & Tools**: Test plans, test cases, bug reporting, regression suites, test documentation,  knowledge base documentation; Jira, TestRail, Zephyr
+
+**Automation & Technical Skills**: Planning and prioritizing automation for key flows, automation framework maintenance/enhancements; Selenium WebDriver, XCUITest, TestProject, Cypress.io, TestNG, Allure Report; Git version control, CI/CD pipelines: Jenkins, CircleCI; Postman, Charles
+
+**Basic programming skills**: HTML/CSS, SQL, Swift, Python, Java, Javascript; Working knowledge of API testing skills using Postman and Charles
 
 ## Projects and where to find them:
 Feel free to explore my projects, and don’t hesitate to reach out if you’d like to discuss how we can collaborate to make your next software release a success!
