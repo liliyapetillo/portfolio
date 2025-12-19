@@ -22,15 +22,21 @@ As a proven leader, I bring strong communication, time management, and delegatio
 ## Projects and where to find them:
 Feel free to explore my projects, and don’t hesitate to reach out if you’d like to discuss how we can collaborate to make your next software release a success!
 
+### Playwright Typescript:
+* Can be found [here](https://github.com/liliyapetillo/Playwright-Demo)
+
+### Java with Selenium:
+* [Automation tests for online shop](https://github.com/liliyavovk-17/seleniumJava)
+
+### Python with Selenium:
+* [Automation tests exercise](https://github.com/liliyavovk-17/LiliyasSeleniumPythonExercise)
+
+### API Testing:
+* [API tests for *Trello* and *GroceryStore*](https://github.com/liliyavovk-17/api-testing)
+
 ### SQL practice:
 * Can be found [here](https://github.com/liliyavovk-17/sql-practice)
   
-### API Testing:
-* [API tests for *Trello* and *GroceryStore*](https://github.com/liliyavovk-17/api-testing)
-  
-### Automation tests in Java with Selenium framework:
-* [Automation tests for online shop](https://github.com/liliyavovk-17/seleniumJava)
 
-### Automation tests in Python with Selenium framework:
-* [Automation tests exercise](https://github.com/liliyavovk-17/LiliyasSeleniumPythonExercise)
+
 
