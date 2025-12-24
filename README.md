@@ -25,8 +25,14 @@ Feel free to explore my projects, and don’t hesitate to reach out if you’d l
 ### Playwright Typescript:
 * Can be found [here](https://github.com/liliyapetillo/Playwright-Demo)
 
+[![Playwright Tests](https://github.com/liliyapetillo/Playwright-Demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/liliyapetillo/Playwright-Demo/actions/workflows/playwright.yml)
+    [Allure Report (GitHub Pages)](https://liliyapetillo.github.io/Playwright-Demo/)
+
 ### Cypress Javascript:
 * Can be found [here](https://github.com/liliyapetillo/Cypress-Demo)
+
+[![Tests](https://github.com/liliyapetillo/Cypress-Demo/actions/workflows/cypress-tests.yml/badge.svg)](https://github.com/liliyapetillo/Cypress-Demo/actions/workflows/cypress-tests.yml)
+[Allure Report (GitHub Pages)](https://liliyapetillo.github.io/Cypress-Demo/)
 
 ### Java with Selenium:
 * [Automation tests for online shop](https://github.com/liliyavovk-17/seleniumJava)
