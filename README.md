@@ -19,6 +19,7 @@ Along the way, I build and maintain automation frameworks (Cypress, Selenium, XC
 Below is a selection of automation projects demonstrating framework design, CI/CD integration, and reporting practices used in production QA work.
 
 ### Playwright Typescript:
+Page Object Model UI automation built with Playwright and TypeScript, including API-level validation, containerized with Docker and integrated with GitHub Actions CI/CD and Allure reporting.
 * Can be found [here](https://github.com/liliyapetillo/Playwright-Demo)
 
 [![Playwright Tests](https://github.com/liliyapetillo/Playwright-Demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/liliyapetillo/Playwright-Demo/actions/workflows/playwright.yml)
