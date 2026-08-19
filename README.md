@@ -1,26 +1,22 @@
 # Liliya Petillo
 ## Summary
-Hello and welcome! I’m Liliya, a self-motivated and dynamic Quality Assurance Team Lead with a passion for e-commerce applications and extensive knowledge of software testing types and quality assurance methodologies. With over 10 years of experience, I’ve honed my skills in ensuring that software products meet the highest standards of quality.
+Hello and welcome! I'm Liliya, a Senior QA Engineer and QA Team Lead with 10+ years leading manual, automated, and API testing across Web, iOS, and Android. My experience spans regulated government and healthcare-adjacent environments as well as subscription-based consumer platforms, with full ownership of test strategy and release readiness in both.
 
-I’m detail-oriented and thrive in managing multiple projects simultaneously while collaborating effectively with cross-functional teams in an Agile environment. My journey in QA has been marked by a commitment to excellence, a love for problem-solving, and a strong belief in the power of teamwork.
-
-As a proven leader, I bring strong communication, time management, and delegation skills to every project I undertake. In this portfolio, you’ll find a curated selection of my work that highlights my expertise in test automation, manual testing, performance testing, and more.
+Along the way, I build and maintain automation frameworks (Cypress, Selenium, XCUITest) integrated into CI/CD pipelines, using GitHub Copilot to write and maintain automation scripts and Gemini and ChatGPT with SMART prompting to generate test cases, close coverage gaps, and identify edge cases. I also built Hubble Contacts' companywide QA team from the ground up, hiring 80% of the team within the first month, and have repeatedly overhauled QA processes to reduce rework and shorten defect-discovery time.
 
 ## Skills
-**Testing Expertise**: Manual testing (Functional, E2E, Regression, Integration, Accessibility, Usability, Exploratory), Web/iOS/Android, API testing, cross-browser testing
+**Quality Strategy & AI-Assisted Testing**: Test strategy and planning, risk-based testing, acceptance criteria validation, release readiness assessment, shift-left practices, defect leakage prevention, quality metrics; AI-assisted test case generation, coverage gap analysis, and edge-case identification (Gemini, ChatGPT with SMART prompting); test management and reporting using Jira, TestRail, and Zephyr.
 
-**Quality Strategy**: Test planning, test strategy, acceptance criteria definition, risk analysis, requirement validation, shift-left practices,  quality metrics/KPIs, release readiness assessment
+**Testing Expertise**: Manual testing (Functional, End-to-End, Regression, Integration, Exploratory, Accessibility, Usability), Web/iOS/Android testing, cross-browser and cross-device testing, API testing and validation (REST, GraphQL) using Postman and Charles.
 
-**Leadership & Collaboration**: Team management, mentoring, onboarding, cross-functional communication, stakeholder management, workflow optimization, defect management, root cause analysis, bug-reporting process improvements
+**Automation and Technical Skills**: Automation strategy and prioritization; framework design and maintenance (Selenium WebDriver, Cypress.io, Playwright, XCUITest); AI-assisted automation scripting (GitHub Copilot); CI/CD integration (Jenkins, CircleCI, Azure DevOps, GitHub Actions); Allure reporting; Git version control.
 
-**Documentation & Tools**: Test plans, test cases, bug reporting, regression suites, test documentation,  knowledge base documentation; Jira, TestRail, Zephyr
+**Leadership & Process Improvement**: QA team leadership and hiring, mentoring and onboarding, workflow and process optimization, cross-functional collaboration with engineering, product, and design, stakeholder communication, root cause analysis, defect management.
 
-**Automation & Technical Skills**:  Automation strategy and prioritization for critical user flows; automation framework maintenance and enhancements; Selenium WebDriver, XCUITest, Cypress.io, TestProject, TestNG; Allure Reports; Git version control; CI/CD pipelines (Jenkins, CircleCI); API testing (Postman, Charles); AI-assisted test development (GitHub Copilot)
-
-**Basic programming and scripting**: HTML/CSS, SQL, Swift, Python, Java, JavaScript; working knowledge of API testing and validation using Postman and Charles
+**Programming**: JavaScript/TypeScript, Java, Swift, Python, SQL, HTML/CSS.
 
 ## Projects and where to find them:
-Feel free to explore my projects, and don’t hesitate to reach out if you’d like to discuss how we can collaborate to make your next software release a success!
+Below is a selection of automation projects demonstrating framework design, CI/CD integration, and reporting practices used in production QA work.
 
 ### Playwright Typescript:
 * Can be found [here](https://github.com/liliyapetillo/Playwright-Demo)
@@ -29,23 +25,39 @@ Feel free to explore my projects, and don’t hesitate to reach out if you’d l
     [Allure Report (GitHub Pages)](https://liliyapetillo.github.io/Playwright-Demo/)
 
 ### Cypress Javascript:
+Page Object Model UI automation built with Cypress and JavaScript, including API-level validation, integrated with CI/CD and Allure reporting.
 * Can be found [here](https://github.com/liliyapetillo/Cypress-Demo)
 
 [![Tests](https://github.com/liliyapetillo/Cypress-Demo/actions/workflows/cypress-tests.yml/badge.svg)](https://github.com/liliyapetillo/Cypress-Demo/actions/workflows/cypress-tests.yml)
 [Allure Report (GitHub Pages)](https://liliyapetillo.github.io/Cypress-Demo/)
 
 ### Java with Selenium:
+Automation suite for an online shop, covering functional and regression flows.
 * [Automation tests for online shop](https://github.com/liliyavovk-17/seleniumJava)
 
 ### Python with Selenium:
+Automation exercise covering core Selenium WebDriver patterns in Python.
 * [Automation tests exercise](https://github.com/liliyavovk-17/LiliyasSeleniumPythonExercise)
 
 ### API Testing:
+API test coverage for Trello and GroceryStore endpoints.
 * [API tests for *Trello* and *GroceryStore*](https://github.com/liliyavovk-17/api-testing)
 
 ### SQL practice:
+SQL query exercises covering common data validation patterns used in QA.
 * Can be found [here](https://github.com/liliyavovk-17/sql-practice)
-  
+
+### Certifications:
+
+ISTQB CTFL (Certified Tester Foundation Level), International Software Testing Qualifications Board
+
+### Languages:
+
+English, Ukrainian, Russian
+
+### Contact:
+
+liliya.petillo@gmail.com | [LinkedIn](https://www.linkedin.com/in/liliya-petillo/) | 718-473-4787
 
 
 
