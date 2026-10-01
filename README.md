@@ -8,7 +8,7 @@ Hello and welcome! I'm Liliya, a Senior QA Engineer and QA Team Lead with 10+ ye
 
 Along the way, I build and maintain automation frameworks (Cypress, Selenium, XCUITest) integrated into CI/CD pipelines, using GitHub Copilot to write and maintain automation scripts and Gemini and ChatGPT with SMART prompting to generate test cases, close coverage gaps, and identify edge cases. I also built Hubble Contacts' companywide QA team from the ground up, hiring 80% of the team within the first month, and have repeatedly overhauled QA processes to reduce rework and shorten defect-discovery time.
 
-More recently, I've been extending that QA foundation into cloud and DevOps — containerizing applications with Docker, deploying them to AWS ECS Fargate, and building gated CI/CD pipelines with GitHub Actions and OIDC. Testing a system end-to-end means understanding how it's actually built and shipped, and that's the gap I'm closing.
+More recently, I've been extending that QA foundation into cloud and DevOps — containerizing applications with Docker, deploying them to AWS ECS Fargate, and building gated CI/CD pipelines with GitHub Actions and OIDC, and defining the infrastructure itself as code with Terraform. Testing a system end-to-end means understanding how it's actually built and shipped, and that's the gap I'm closing.
 
 ## Skills
 
@@ -30,7 +30,8 @@ More recently, I've been extending that QA foundation into cloud and DevOps — 
 - Allure reporting, Git version control
 
 **Cloud & DevOps** *(expanding into)*
-- AWS: ECS Fargate, ECR, IAM/OIDC federation, DynamoDB, CloudWatch alarms/dashboards, SNS
+- AWS: ECS Fargate, ECR, EC2, VPC, IAM/OIDC federation, Systems Manager (Session Manager), DynamoDB, CloudWatch alarms/dashboards, SNS
+- Terraform: remote state with S3 locking, workspaces for staging/production, custom and registry modules, validation guardrails, fmt/validate/TFLint in CI
 - Docker: image builds, multi-stage layering, container debugging
 - CI/CD pipeline design with staged environments and manual approval gates
 - Infrastructure troubleshooting across the deploy chain, from build to runtime
@@ -48,6 +49,14 @@ Below is a selection of automation and infrastructure projects demonstrating fra
 ### ECS CI/CD Pipeline
 A small Flask app containerized with Docker and deployed to AWS ECS Fargate through a gated GitHub Actions pipeline (test → build → staging → manual approval → production), using OIDC for AWS auth, DynamoDB for app state, and CloudWatch for monitoring.
 * [Repo](https://github.com/liliyapetillo/ecs-cicd-pipeline) · [![Deploy](https://github.com/liliyapetillo/ecs-cicd-pipeline/actions/workflows/deploy.yml/badge.svg)](https://github.com/liliyapetillo/ecs-cicd-pipeline/actions/workflows/deploy.yml)
+
+### Terraform AWS Environment
+A small AWS environment built entirely in Terraform (VPC, locked-down security group, and an EC2 instance reachable only through Session Manager, with no SSH keys or open ports), deployed as isolated staging and production copies via workspaces. Covers locked S3 remote state, a hand-written module alongside a registry module, plan-time guardrails, and fmt/validate/TFLint checks in GitHub Actions.
+
+* [Repo](https://github.com/liliyapetillo/terraform-aws-environment) · [![Terraform checks](https://github.com/liliyapetillo/terraform-aws-environment/actions/workflows/terraform.yml/badge.svg)](https://github.com/liliyapetillo/terraform-aws-environment/actions/workflows/terraform.yml)
+
+
+**What's next: growing it into three tiers.** Today it's one server in one availability zone, which is a single point of failure. Next, the same Terraform grows into the shape most real AWS workloads take: a load balancer as the only public entry point, private app servers across two zones, and a database nothing on the internet can reach. To keep costs down, it runs only during working sessions and is torn down afterwards.
 
 ### AI-Assisted Test Case Generation
 A practical guide to structured AI prompting for QA test design.
